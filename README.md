@@ -22,6 +22,8 @@ Create a single file of type .pdf for A, a single file of type .circ for B, zip 
 
 Assignment 3: With reference to the latest set of Branch Prediction slides:
 
+Two exercises:
+
 A) Solve the exercise on slide 24, for Cases 1 and 2. 
 
 B) Correlating Branch Predictors: solve the exercises on slides 46, 50, 51.
