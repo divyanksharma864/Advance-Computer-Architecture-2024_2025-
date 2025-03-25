@@ -19,3 +19,11 @@ A) Perform scheduling for architectures number 2, 3 and 4 of the Scheduling Exer
 B) Generate a Latch, a D Latch and a falling edge D Flip Flop using logisim (use nor/and/not gates; do not use the pre-made library elements). Create a single .circ file containing all three components.
 
 Create a single file of type .pdf for A, a single file of type .circ for B, zip them together and turn in a single file. Write your name on both A and B. Thanks.
+
+Assignment 3: With reference to the latest set of Branch Prediction slides:
+
+A) Solve the exercise on slide 24, for Cases 1 and 2. 
+
+B) Correlating Branch Predictors: solve the exercises on slides 46, 50, 51.
+
+Generate a single pdf containing all your answers, and turn it in.
