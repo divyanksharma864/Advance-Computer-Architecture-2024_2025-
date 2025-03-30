@@ -28,4 +28,4 @@ A) Solve the exercise on slide 24, for Cases 1 and 2.
 
 B) Correlating Branch Predictors: solve the exercises on slides 46, 50, 51.
 
-Generate a single pdf containing all your answers, and turn it in.
+Generate a single pdf containing all your answers, and turn it in..
