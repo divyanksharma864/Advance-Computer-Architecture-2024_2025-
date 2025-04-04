@@ -29,3 +29,9 @@ A) Solve the exercise on slide 24, for Cases 1 and 2.
 B) Correlating Branch Predictors: solve the exercises on slides 46, 50, 51.
 
 Generate a single pdf containing all your answers, and turn it in..
+
+Assignment 4: Dynamic Scheduling
+
+One exercises:
+
+A) Perform scheduling for architecture #5 of the scheduling exercise.  (see file: 4_SchedulingExerciseWithArch5.pdf). As usual, show the exact schedule, and the exact forwarding paths used, and compute the resulting CPI.
